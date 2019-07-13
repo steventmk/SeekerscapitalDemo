@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Apple Inc.",
+        "code": "AAPL",
+        "close": 204.23,
+        "low": 201.31,
+        "high": 205.89,
+        "open": 201.4
+    },
+    {
+        "name": "Facebook, Inc.",
+        "code": "FB",
+        "close": 84.23,
+        "low": 83.31,
+        "high": 85.89,
+        "open": 85.4
+    },
+    {
+        "name": "Amazon.com, Inc.",
+        "code": "AMZN",
+        "close": 90.23,
+        "low": 87.31,
+        "high": 93.89,
+        "open": 92.4
+    },
+    {
+        "name": "Netflix, Inc.",
+        "code": "NFLX",
+        "close": 204.23,
+        "low": 201.31,
+        "high": 205.89,
+        "open": 201.4
+    },
+    {
+        "name": "Tesla, Inc.",
+        "code": "TSLA",
+        "close": 84.23,
+        "low": 83.31,
+        "high": 85.89,
+        "open": 85.4
+    },
+    {
+        "name": "Microsoft Corporation",
+        "code": "MSFT",
+        "close": 136.23,
+        "low": 134.31,
+        "high": 137.89,
+        "open": 133.23
+    },
+    {
+        "name": "Cisco Systems, Inc",
+        "code": "CSCO",
+        "close": 84.23,
+        "low": 83.31,
+        "high": 85.89,
+        "open": 85.4
+    },
+    {
+        "name": "Intel Corporation",
+        "code": "INTC",
+        "close": 90.23,
+        "low": 87.31,
+        "high": 93.89,
+        "open": 92.4
+    }
+]
+
